@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "LaviPortfolio",
+    "slug": "laviportfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5F8"
+    },
+    "android": {
+      "package": "rw.ac.ines.ug2527104.laviportfolio",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#9D174D",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "LaviPortfolio uses your photos only to let you choose a profile picture. It stays on this phone.",
+          "cameraPermission": "LaviPortfolio uses the camera only to take a profile picture. It stays on this phone."
+        }
+      ],
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "fbbe997e-0e3b-45f0-a621-cc94c3be9a95"
+      }
+    }
+  }
+}

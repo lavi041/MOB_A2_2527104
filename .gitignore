@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.env
+.env.*
+npm-debug.*
+.DS_Store
+android/
+ios/
