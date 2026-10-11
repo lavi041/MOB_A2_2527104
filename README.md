@@ -51,8 +51,8 @@ evidence/        test log, declaration, AI_USE.md
 ```
 
 ## Release details (fill in after building and testing)
-- **Tested device:** ______________________
-- **Android version:** ______________________
+- **Tested device:** Samsung Galaxy A05 (SM-A055F/DS)
+- **Android version:** Android 15
 - **Final commit hash:** ______________________
 - **Release link:** https://github.com/lavi041/MOB_A2_2527104/releases/tag/v1.0.0
 - **APK link:** ______________________

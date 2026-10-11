@@ -19,6 +19,6 @@ Claude (Anthropic) was used as an assistant to generate the initial React Native
 I reviewed, ran and tested the application on a physical Android phone, and I can explain how every part of the code works. Any content that is not accurate about me was corrected by me before submission.
 
 ## Edits I made after AI generation
-(Student: list what you changed, for example colours, wording, project details.)
--
--
+- Built the APK with EAS Build and installed it on a Samsung Galaxy A05 (Android 15).
+- Tested the app on the phone: all 18 tests in the test log, including the profile editor (a validation error, then a valid saved profile) and Airplane Mode.
+- Wrote the verification card by hand and recorded the demo video.
