@@ -53,9 +53,9 @@ evidence/        test log, declaration, AI_USE.md
 ## Release details (fill in after building and testing)
 - **Tested device:** Samsung Galaxy A05 (SM-A055F/DS)
 - **Android version:** Android 15
-- **Final commit hash:** ______________________
+- **Final commit hash:** 1a9bdbc60f2ae859850b1c6342179ea5f67be389
 - **Release link:** https://github.com/lavi041/MOB_A2_2527104/releases/tag/v1.0.0
-- **APK link:** ______________________
+- **APK link:** https://github.com/lavi041/MOB_A2_2527104/releases/download/v1.0.0/MOB_A2_2527104.apk
 
 ## Known limitations
 - The profile picture is stored as a reference to the picked image on the phone. If the phone's cache is cleared or the image is deleted, the avatar with initials is shown instead.
